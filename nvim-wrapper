@@ -35,6 +35,7 @@ TERM_CMD = [
     '--class', CLASS,
     '--name', NAME,
     '--hide-menubar',
+    '--window-with-profile=Vim',
     '-x',
     'nvim',
 ]

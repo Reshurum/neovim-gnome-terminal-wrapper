@@ -12,8 +12,8 @@ source=('neovim.desktop'
         'nvim-wrapper'
         'neovim.svg')
 md5sums=('c5b9b5db24db814376b6925ce0f9ad52'
-         '6a2aa98a447d3aa661e39c9b31c4aa7b'
-         '2b271742492f200bcac78dbfe33caa3c')
+         '88e222897d9ec46db6019b2631c7ec1d'
+         '560494f03ffa766d2eebf1f72626c888')
 
 package() {
   cd "$srcdir/"
